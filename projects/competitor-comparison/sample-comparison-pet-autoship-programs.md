@@ -32,18 +32,18 @@ No universal winner was identified because the best option depends on the custom
 | Criterion | Chewy | Petco | PetSmart |
 |---|---|---|---|
 | Program name | Autoship | Autoship | Autoship |
-| First-order savings shown during review | 35% off, up to $20, on the standard Autoship page | 35% off the first Autoship order | Typically 35% off, up to $20 |
-| Recurring savings | 5% on select eligible brands | 5% on future eligible deliveries | 5% on qualifying recurring orders |
+| First-order savings shown during review | 35% off the first qualifying Autoship order, up to $20 | 35% off the first qualifying Autoship order, up to $20 | 35% off the first qualifying Autoship order, up to $20 |
+| Recurring savings | 5% off eligible items | 5% off subsequent eligible orders | 5% off qualifying recurring orders |
 | Delivery schedule | Customer selects a recurring schedule | Customer selects a recurring schedule | Weekly, monthly, or another available interval |
 | Online account management | Schedule and items can be adjusted through the customer account | Autoship is managed through the customer account | Customers can add items, skip orders, change frequency, or cancel online |
 | Initial-order fulfillment | Shipped to the customer | Delivery options depend on the order and location | May use shipping, store pickup, or same-day delivery when available |
-| Later recurring orders | Shipped to the customer | Recurring delivery to the customer | Subsequent Autoship orders are shipped to the customer |
+| Later recurring orders | Shipped to the customer | Recurring delivery to the customer | Subsequent Autoship orders are generally shipped to the customer |
 | Customer-support availability | Customer care is available 24/7 by phone and chat | General-inquiry phone support is available during published daily hours | Online help and telephone customer care are available |
 | Physical store network | No traditional nationwide retail-store network | Nationwide physical stores | Nationwide physical stores |
 | Local pickup and same-day options | Not a primary Autoship feature | Available for qualifying general orders and locations | Available for qualifying first orders and general purchases |
 | Pharmacy or veterinary offerings | Pharmacy, veterinary guidance, insurance-related offerings, and expanding veterinary care | Vetco clinics and hospitals, pharmacy-related products, grooming, and training | Veterinary care at many locations, grooming, training, day camp, and boarding at participating stores |
-| Main advantage | Online convenience and 24/7 support | Combination of retail, delivery, and in-person pet services | Store access and flexible fulfillment choices |
-| Main limitation | Recurring discount eligibility may be product- or brand-specific | Services and delivery options vary by location | Later Autoship orders are generally limited to shipment rather than pickup |
+| Main advantage | Online convenience and 24/7 support | Combination of retail, delivery, and in-person pet services | Store access and flexible first-order fulfillment choices |
+| Main limitation | Recurring discount eligibility is limited to eligible items | Services and delivery options vary by location | Later Autoship orders are generally limited to shipment rather than pickup |
 
 ## Individual Findings
 
@@ -53,15 +53,15 @@ Chewy’s program is designed primarily for customers who prefer online ordering
 
 The strongest differentiator identified was its 24/7 customer-care model. Chewy also provides pharmacy support, veterinary guidance, and additional pet-health services.
 
-Chewy’s standard Autoship page displayed a 35% introductory discount with a maximum savings of $20 and 5% savings on select future orders at the time of review.
+Chewy’s standard Autoship page displayed a 35% introductory discount with a maximum savings of $20 and 5% savings on eligible items at the time of review.
 
-A separate current-deals page displayed a different introductory promotion. This indicates that promotional offers may temporarily differ from the standard program description.
+Temporary promotional pages may display a different introductory offer. Promotions should be recorded separately from the standard program terms and dated when reviewed.
 
 ### Petco
 
 Petco combines recurring delivery with a nationwide physical-store and pet-service network.
 
-Its official Autoship information displayed an introductory discount and savings on future eligible deliveries. Petco also offers store pickup, same-day delivery for qualifying general orders, veterinary services, grooming, and training.
+Its official Autoship information displayed 35% off the first qualifying order, up to $20, and 5% off subsequent eligible orders. Petco also offers store pickup, same-day delivery for qualifying general orders, veterinary services, grooming, and training.
 
 Petco may be especially useful for customers who want both online purchasing and access to in-person services.
 
@@ -69,7 +69,7 @@ Petco may be especially useful for customers who want both online purchasing and
 
 PetSmart’s Autoship program allows customers to choose recurring delivery intervals and manage upcoming orders through their online accounts.
 
-A notable feature is that the first Autoship order may qualify for shipping, in-store pickup, or same-day delivery, depending on availability. Later recurring orders are generally fulfilled through shipping.
+Its published standard terms showed 35% off the first qualifying Autoship order, up to $20, and 5% off qualifying recurring orders. The first Autoship order may qualify for shipping, in-store pickup, or same-day delivery, depending on availability. Later recurring orders are generally fulfilled through shipping.
 
 PetSmart also provides extensive physical-store access and services such as grooming, training, veterinary care, day camp, and boarding at participating locations.
 
@@ -78,10 +78,23 @@ PetSmart also provides extensive physical-store access and services such as groo
 | Topic | Issue identified | Research decision |
 |---|---|---|
 | Introductory discounts | Standard program pages and temporary promotional pages may display different percentages | Record the standard program offer and clearly label temporary promotions separately |
-| Future-order discounts | Discounts may apply only to qualifying products, items, or brands | Avoid describing the discount as applying to every product |
+| Future-order discounts | Discounts apply only to eligible or qualifying products and orders | Avoid describing the discount as applying to every product |
 | Same-day delivery | Availability depends on customer location, order eligibility, inventory, and retailer terms | Describe the option as location-dependent rather than universally available |
 | In-person services | Veterinary, grooming, training, and boarding services are not offered at every location | Use language such as “participating locations” or “many locations” |
 | Pricing | Product prices and promotions can change frequently | Do not treat prices observed on one date as permanent |
+
+## Source Log
+
+| Source | Source type | Date accessed | Information supported | Reliability |
+|---|---|---|---|---|
+| [Chewy Autoship & Save](https://www.chewy.com/b/autoship-save-15682) | Official retailer program page | 2026-08-04 | Introductory discount, recurring savings, schedule flexibility, and program eligibility | High |
+| [Chewy Hours and Contacts](https://www.chewy.com/customer-care/orders-payments-and-promotions/orders/chewy-hours-and-contacts) | Official customer-support page | 2026-08-04 | Customer-care availability and contact options | High |
+| [Petco Autoship](https://www.petco.com/s/autoship) | Official retailer program page | 2026-08-04 | First-order offer, account management, recurring delivery, and program terms | High |
+| [Petco Autoship Help](https://www.petco.com/content/petco/PetcoStore/en_US/pet-services/help/autoship.html) | Official customer-support page | 2026-08-04 | Maximum first-order discount, shipping terms, and schedule flexibility | High |
+| [Petco Pet Services](https://www.petco.com/shop/en/petcostore/pet-services) | Official retailer services page | 2026-08-04 | Veterinary, grooming, training, and in-person service availability | High |
+| [PetSmart Autoship FAQs](https://www.petsmart.com/help/your-order-H0003d.html) | Official customer-support page | 2026-08-04 | Fulfillment methods, account management, recurring savings, and future-order handling | High |
+| [PetSmart Promotional Terms](https://www.petsmart.com/help/promotional-terms) | Official retailer terms page | 2026-08-04 | Standard first-order discount, maximum savings, recurring discount, and exclusions | High |
+| [PetSmart Services](https://services.petsmart.com/) | Official retailer services website | 2026-08-04 | Grooming, training, veterinary care, day camp, and boarding services | High |
 
 ## Source Evaluation
 
@@ -97,7 +110,11 @@ Information was compared across program pages, support pages, terms, and service
 
 The sources were accessed on August 4, 2026. Pages showing temporary promotions were treated as time-sensitive.
 
-### Limitations
+### Relevance
+
+Each source was matched to the information it was best positioned to confirm. Program and promotional pages were used for discount information, support pages were used for customer-service and order-management details, and service pages were used for in-person offerings.
+
+## Limitations
 
 The research did not include:
 
